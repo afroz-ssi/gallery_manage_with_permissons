@@ -1,0 +1,1 @@
+# gallery_manage_with_permissons
